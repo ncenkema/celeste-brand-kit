@@ -1,0 +1,52 @@
+{
+  "note": "All Celeste media is stored directly in this folder (not externally hosted), organized into subfolders by category. Reference assets by id.",
+  "assets": [
+    { "id": "mnd-tube-alone", "path": "tubes/MNDTUBEALONE.png", "category": "tube", "product": "Mend" },
+    { "id": "flt-tube-alone", "path": "tubes/FLTTUBEALONE.png", "category": "tube", "product": "Float" },
+    { "id": "opl-tube-alone", "path": "tubes/OPLTUBEALONE.png", "category": "tube", "product": "Opal" },
+    { "id": "lul-tube-alone", "path": "tubes/LULTUBEALONE.png", "category": "tube", "product": "Lull" },
+    { "id": "mnd-tube-color", "path": "tubes/MNDCOLOR.png", "category": "tube", "product": "Mend", "role": "on colored background" },
+    { "id": "flt-tube-color", "path": "tubes/FLTCOLOR.png", "category": "tube", "product": "Float", "role": "on colored background" },
+    { "id": "opl-tube-color", "path": "tubes/OPLCOLOR.png", "category": "tube", "product": "Opal", "role": "on colored background" },
+    { "id": "lul-tube-color", "path": "tubes/LULCOLOR.png", "category": "tube", "product": "Lull", "role": "on colored background" },
+    { "id": "tube-stack", "path": "tubes/TUBESTACK.png", "category": "tube", "role": "all 4 tubes stacked" },
+
+    { "id": "mnd-squeeze", "path": "squeeze-drip/MNDSQZ.png", "category": "squeeze-drip", "product": "Mend" },
+    { "id": "flt-squeeze", "path": "squeeze-drip/FLTSQZ.png", "category": "squeeze-drip", "product": "Float" },
+    { "id": "opl-squeeze", "path": "squeeze-drip/OPLSQZ.png", "category": "squeeze-drip", "product": "Opal" },
+    { "id": "lul-squeeze", "path": "squeeze-drip/LULSQZ.png", "category": "squeeze-drip", "product": "Lull" },
+    { "id": "all-squeeze", "path": "squeeze-drip/ALLSQZFINAL.png", "category": "squeeze-drip", "role": "all 4 tubes squeezed together, composite" },
+    { "id": "all-swatch", "path": "swatches/ALLSWATCH.png", "category": "swatch", "role": "all 4 formula swatches together" },
+    { "id": "mnd-swatch", "path": "swatches/MNDSWATCH.png", "category": "swatch", "product": "Mend" },
+    { "id": "flt-swatch", "path": "swatches/FLTSWATCH.png", "category": "swatch", "product": "Float" },
+    { "id": "opl-swatch", "path": "swatches/OPLSWATCH.png", "category": "swatch", "product": "Opal" },
+    { "id": "lul-swatch", "path": "swatches/LULSWATCH.png", "category": "swatch", "product": "Lull" },
+
+    { "id": "mnd-box-alone", "path": "packaging/MNDBOXALONE.png", "category": "packaging", "product": "Mend", "role": "box alone" },
+    { "id": "flt-box-alone", "path": "packaging/FLTBOXALONE.png", "category": "packaging", "product": "Float", "role": "box alone" },
+    { "id": "opl-box-alone", "path": "packaging/OPLBOXALONE.png", "category": "packaging", "product": "Opal", "role": "box alone" },
+    { "id": "lul-box-alone", "path": "packaging/LULBOXALONE.png", "category": "packaging", "product": "Lull", "role": "box alone" },
+    { "id": "mnd-box-34", "path": "packaging/MNDBOX34.png", "category": "packaging", "product": "Mend", "role": "box 3/4 angle" },
+    { "id": "flt-box-34", "path": "packaging/FLTBOX34.png", "category": "packaging", "product": "Float", "role": "box 3/4 angle" },
+    { "id": "opl-box-34", "path": "packaging/OPLBOX34.png", "category": "packaging", "product": "Opal", "role": "box 3/4 angle" },
+    { "id": "lul-box-34", "path": "packaging/LULBOX34.png", "category": "packaging", "product": "Lull", "role": "box 3/4 angle" },
+    { "id": "mnd-box-horiz", "path": "packaging/MNDBOXHORIZ.png", "category": "packaging", "product": "Mend", "role": "box horizontal" },
+    { "id": "flt-box-horiz", "path": "packaging/FLTBOXHORIZ.png", "category": "packaging", "product": "Float", "role": "box horizontal" },
+    { "id": "opl-box-horiz", "path": "packaging/OPLBOXHORIZ.png", "category": "packaging", "product": "Opal", "role": "box horizontal" },
+    { "id": "lul-box-horiz", "path": "packaging/LULBOXHORIZ.png", "category": "packaging", "product": "Lull", "role": "box horizontal" },
+    { "id": "mnd-pair-final", "path": "packaging/MNDPAIRFINAL.png", "category": "packaging", "product": "Mend", "role": "box + tube pair" },
+    { "id": "flt-pair-final", "path": "packaging/FLTPAIRFINAL.png", "category": "packaging", "product": "Float", "role": "box + tube pair" },
+    { "id": "opl-pair-final", "path": "packaging/OPLPAIRFINAL.png", "category": "packaging", "product": "Opal", "role": "box + tube pair" },
+    { "id": "lul-pair-final", "path": "packaging/LULPAIRFINAL.png", "category": "packaging", "product": "Lull", "role": "box + tube pair" },
+
+    { "id": "people-01", "path": "people/PEOPLE01.png", "category": "people" },
+    { "id": "people-02", "path": "people/PEOPLE02.png", "category": "people" },
+    { "id": "people-03", "path": "people/PEOPLE03.png", "category": "people" },
+    { "id": "people-04", "path": "people/PEOPLE04.png", "category": "people" },
+
+    { "id": "billboard-1", "path": "billboard/BLBD1FINAL.png", "category": "billboard", "role": "finished composite, version 1" },
+    { "id": "billboard-2", "path": "billboard/BLBD2FINAL.png", "category": "billboard", "role": "finished composite, version 2" },
+
+    { "id": "booth-final", "path": "booth/BOOTHFINAL.png", "category": "booth", "role": "finished product display booth composite" }
+  ]
+}
